@@ -7,7 +7,7 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "vite-plugin-vue2": "^1.4.0",
+    "vite-plugin-vue2": "^2.0.1",
     "vue": "^2.6.12"
   },
   "devDependencies": {
